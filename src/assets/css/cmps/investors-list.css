@@ -1,0 +1,11 @@
+.investers-list-container {
+    background-color: black;
+    margin: auto;
+
+}
+.investers-list-container h1{
+    color: white;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 1em;
+}
