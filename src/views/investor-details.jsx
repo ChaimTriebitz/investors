@@ -4,7 +4,6 @@ export const InvesterDetails = ({ onToggleDetails, speaker }) => {
 	const [isReadMore, setIsReadMore] = useState(false);
 	const onReadMore = () => {
 		setIsReadMore(!isReadMore);
-		console.log('kkk');
 	};
 	const investerStyle = {
 		backgroundImage: `${speaker.speaker_head_shot_to_display}`,
